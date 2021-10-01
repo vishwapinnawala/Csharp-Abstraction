@@ -1,0 +1,6 @@
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
